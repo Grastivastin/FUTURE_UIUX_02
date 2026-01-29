@@ -30,4 +30,4 @@ The interface is designed to feel minimal, calming, and encouraging.
 - Screens are exported as PNG files and uploaded for documentation
 
 ## Prototype Link
-(Add your Canva prototype link here)
+https://www.canva.com/design/DAG_0RRl5M4/XYqUrh5-y82FV000WgEk9g/edit?utm_content=DAG_0RRl5M4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
